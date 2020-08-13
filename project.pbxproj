@@ -25,6 +25,7 @@
 		37345A1524DDB3F400AD909B /* proChoiceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37345A1424DDB3F400AD909B /* proChoiceViewController.swift */; };
 		37345A1724DDB41A00AD909B /* resourcesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37345A1624DDB41A00AD909B /* resourcesViewController.swift */; };
 		37345A1924DDB45500AD909B /* sexualAssultJusticeForViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37345A1824DDB45500AD909B /* sexualAssultJusticeForViewController.swift */; };
+		37930B7424E355A200CB9BC7 /* LGBTQJusticeForViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37930B7324E355A200CB9BC7 /* LGBTQJusticeForViewController.swift */; };
 		37B99B9624D8F39A00AC9A5D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37B99B9524D8F39A00AC9A5D /* AppDelegate.swift */; };
 		37B99B9824D8F39A00AC9A5D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37B99B9724D8F39A00AC9A5D /* SceneDelegate.swift */; };
 		37B99B9A24D8F39A00AC9A5D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37B99B9924D8F39A00AC9A5D /* ViewController.swift */; };
@@ -73,6 +74,7 @@
 		37345A1424DDB3F400AD909B /* proChoiceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = proChoiceViewController.swift; sourceTree = "<group>"; };
 		37345A1624DDB41A00AD909B /* resourcesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = resourcesViewController.swift; sourceTree = "<group>"; };
 		37345A1824DDB45500AD909B /* sexualAssultJusticeForViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sexualAssultJusticeForViewController.swift; sourceTree = "<group>"; };
+		37930B7324E355A200CB9BC7 /* LGBTQJusticeForViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LGBTQJusticeForViewController.swift; sourceTree = "<group>"; };
 		37B99B9224D8F39A00AC9A5D /* united.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = united.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		37B99B9524D8F39A00AC9A5D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		37B99B9724D8F39A00AC9A5D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -143,6 +145,7 @@
 				37B99B9724D8F39A00AC9A5D /* SceneDelegate.swift */,
 				37B99B9924D8F39A00AC9A5D /* ViewController.swift */,
 				37B99B9B24D8F39A00AC9A5D /* Main.storyboard */,
+				37930B7324E355A200CB9BC7 /* LGBTQJusticeForViewController.swift */,
 				37345A1824DDB45500AD909B /* sexualAssultJusticeForViewController.swift */,
 				37345A1624DDB41A00AD909B /* resourcesViewController.swift */,
 				37345A1224DDA90500AD909B /* sexualAssultLawsViewController.swift */,
@@ -340,6 +343,7 @@
 				37345A1324DDA90500AD909B /* sexualAssultLawsViewController.swift in Sources */,
 				373459F924DC48E400AD909B /* fifthViewController.swift in Sources */,
 				37345A0724DD8F9200AD909B /* citizenShipViewController.swift in Sources */,
+				37930B7424E355A200CB9BC7 /* LGBTQJusticeForViewController.swift in Sources */,
 				373459FF24DC600B00AD909B /* BLMHealthCareViewController.swift in Sources */,
 				37345A0124DC603E00AD909B /* BLMEducationViewController.swift in Sources */,
 			);
